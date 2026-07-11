@@ -5,14 +5,14 @@
 </p>
 
 ### 🔭 현재 프로젝트 하고 있는 것
-- 없음
+- everyfind(분실물 찾기)
   
 ---
 
 ### 🌱 현재 공부 중인 것
-- 학과 공부(리눅스시스템, DB, 네트워크 프로그래밍, 윈도우 프로그래밍, IoT(라즈베리파이))
-- Spring 강의
-- 백준 알고리즘 문제 풀이 (Problem Solving)
+- 자바(Do it! 자바 프로그래밍 입문) 
+- Spring (스프링 핵심 원리 - 기본편, 김영한)
+- 프로그래머스 알고리즘 
 
 ---
 
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 
 --- 
 
